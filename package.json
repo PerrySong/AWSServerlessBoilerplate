@@ -1,0 +1,19 @@
+{
+  "name": "showcasegeneralservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerrySong/ShowcaseGeneralService.git"
+  },
+  "author": "Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PerrySong/ShowcaseGeneralService/issues"
+  },
+  "homepage": "https://github.com/PerrySong/ShowcaseGeneralService#readme"
+}
